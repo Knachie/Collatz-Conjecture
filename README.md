@@ -1,1 +1,1 @@
-The code isn't finished yet. You can put the files into visual studio if you want to work on it yourself.
+The code works. If you want to try it you can download it and visual studio and put the files in your projects folder.
